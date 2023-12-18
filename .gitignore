@@ -1,0 +1,11 @@
+*~
+*.o
+*.pyc
+*.swp
+*.exe
+*.so
+*.a
+*.tar.gz
+bin/*
+__pycache__/*
+.mypy_cache/*
